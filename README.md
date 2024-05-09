@@ -6,5 +6,3 @@ Used Python for Analysis and library used Pandas , Numpy , Matlplotlib, Seaborn.
 • Kaggle Notebook link:https://www.kaggle.com/nikhilpaliwal/notebooks
 
 • Please do ⭐ the repository, if it helped you in anyway.
-
-personal-loan-prediction-using-catboost-classifier.ipynb
