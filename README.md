@@ -3,6 +3,6 @@
 Used Logistic regressionm and  Catboost Regression.
 Used Python for Analysis and library used Pandas , Numpy , Matlplotlib, Seaborn.S 
 
-• Kaggle Notebook link:https://www.kaggle.com/nikhilpaliwal/notebooks
+• Kaggle Notebook link:https://www.kaggle.com/code/nikhilpaliwal/personal-loan-prediction-using-catboost-classifier
 
 • Please do ⭐ the repository, if it helped you in anyway.
